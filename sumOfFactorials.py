@@ -13,3 +13,4 @@ def sumFact(a):
         return sumFact(a-1) + fact(a)
         
 print(f'Сумма факториалов от 1 до n: {sumFact(n)}')
+#Строка изменения файла для фторого коммита
